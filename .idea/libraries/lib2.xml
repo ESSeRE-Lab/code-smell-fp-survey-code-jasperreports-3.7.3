@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/openflashchart/lib/BrowserLauncher2-1_3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/openflashchart/lib/json-org.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

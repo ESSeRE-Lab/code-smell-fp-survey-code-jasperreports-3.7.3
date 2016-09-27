@@ -1,0 +1,56 @@
+<component name="libraryTable">
+  <library name="lib6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/bcel-5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/serializer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/batik-svggen.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/png-encoder-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/saaj-api-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/xml-apis-ext.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/rhino-1.7R1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/log4j-1.2.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/batik-gvt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/jcommon-1.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/xalan-2.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/batik-awt-util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/iText-2.1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/hibernate3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/commons-javaflow-20060411.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/xml-apis.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/poi-3.5-FINAL-20090928.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/jaxen-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/mondrian-3.1.1.12687.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/batik-anim.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/antlr-2.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/batik-ext.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/jxl-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/batik-css.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/batik-dom.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/commons-collections-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/xercesImpl-2.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/jfreechart-1.0.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/commons-logging-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/batik-script.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/hsqldb-1.8.0-10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/spring-beans-2.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/barbecue-1.5-beta1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/batik-xml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/batik-bridge.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/groovy-all-1.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/ant-1.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/batik-svg-dom.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/jdt-compiler-3.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/spring-core-2.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/batik-util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/bsh-2.0b4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/commons-beanutils-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/commons-digester-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/jpa.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/batik-parser.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/lib/barcode4j-2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

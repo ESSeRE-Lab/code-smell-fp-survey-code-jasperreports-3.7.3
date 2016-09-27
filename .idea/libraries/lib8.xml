@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/ejbql/lib/toplink-essentials.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/ejbql/lib/toplink-essentials-agent.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="castor-1.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/chartthemes/lib/castor-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bcprov-jdk14-139">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/pdfencrypt/lib/bcprov-jdk14-139.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

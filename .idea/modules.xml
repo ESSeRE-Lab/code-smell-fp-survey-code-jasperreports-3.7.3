@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/webapp/WEB-INF/WEB-INF.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/webapp/WEB-INF/WEB-INF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/alterdesign/alterdesign.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/alterdesign/alterdesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/antcompile/antcompile.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/antcompile/antcompile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/antupdate/antupdate.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/antupdate/antupdate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/barbecue/barbecue.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/barbecue/barbecue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/barcode4j/barcode4j.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/barcode4j/barcode4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/batchexport/batchexport.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/batchexport/batchexport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/beanshell/beanshell.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/beanshell/beanshell.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/charts/charts.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/charts/charts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/chartthemes/chartthemes.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/chartthemes/chartthemes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/crosstabs/crosstabs.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/crosstabs/crosstabs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/csvdatasource/csvdatasource.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/csvdatasource/csvdatasource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/datasource/datasource.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/datasource/datasource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/ejbql/ejbql.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/ejbql/ejbql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/fonts/fonts.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/fonts/fonts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/genericelement/genericelement.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/genericelement/genericelement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/groovy/groovy.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/groovy/groovy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/hibernate/hibernate.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/hibernate/hibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/horizontal/horizontal.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/horizontal/horizontal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/hyperlink/hyperlink.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/hyperlink/hyperlink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/i18n/i18n.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/i18n/i18n.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/images/images.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/images/images.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/jasper/jasper.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/jasper/jasper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/jasperreports-3.7.4.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/jasperreports-3.7.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/java1.5/java1.5.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/java1.5/java1.5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/javascript/javascript.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/javascript/javascript.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/jcharts/jcharts.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/jcharts/jcharts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/jchartscomponent/jchartscomponent.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/jchartscomponent/jchartscomponent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/jfreechart/jfreechart.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/jfreechart/jfreechart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/landscape/landscape.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/landscape/landscape.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/list/list.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/list/list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/markup/markup.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/markup/markup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/mondrian/mondrian.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/mondrian/mondrian.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/nopagebreak/nopagebreak.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/nopagebreak/nopagebreak.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/noreport/noreport.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/noreport/noreport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/noxmldesign/noxmldesign.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/noxmldesign/noxmldesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/pdfencrypt/pdfencrypt.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/pdfencrypt/pdfencrypt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/printservice/printservice.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/printservice/printservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/query/query.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/query/query.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/rotation/rotation.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/rotation/rotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/samples.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/scriptlet/scriptlet.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/scriptlet/scriptlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/shapes/shapes.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/shapes/shapes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/spiderchartcomponent/spiderchartcomponent.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/spiderchartcomponent/spiderchartcomponent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/stretch/stretch.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/stretch/stretch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/styledtext/styledtext.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/styledtext/styledtext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/subreport/subreport.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/subreport/subreport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/table/table.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/table/table.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/tableofcontents/tableofcontents.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/tableofcontents/tableofcontents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/tabular/tabular.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/tabular/tabular.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/templates/templates.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/templates/templates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/text/text.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/text/text.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/unicode/unicode.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/unicode/unicode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/virtualizer/virtualizer.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/virtualizer/virtualizer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/webapp/webapp.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/webapp/webapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/xlsdatasource/xlsdatasource.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/xlsdatasource/xlsdatasource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/xlsformula/xlsformula.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/xlsformula/xlsformula.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/xmldatasource/xmldatasource.iml" filepath="$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/xmldatasource/xmldatasource.iml" />
+    </modules>
+  </component>
+</project>

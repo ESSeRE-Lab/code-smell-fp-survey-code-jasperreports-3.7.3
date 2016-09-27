@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jCharts-0.6.01">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/jasperreports-3.7.4/demo/samples/jcharts/lib/jCharts-0.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

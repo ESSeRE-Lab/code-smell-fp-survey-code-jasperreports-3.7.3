@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/jasperreports-3.7.4/demo/samples/hibernate/lib/asm-attrs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/jasperreports-3.7.4/demo/samples/hibernate/lib/dom4j-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/jasperreports-3.7.4/demo/samples/hibernate/lib/asm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/jasperreports-3.7.4/demo/samples/hibernate/lib/ehcache-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/jasperreports-3.7.4/demo/samples/hibernate/lib/jta.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/jasperreports-3.7.4/demo/samples/hibernate/lib/cglib-2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
