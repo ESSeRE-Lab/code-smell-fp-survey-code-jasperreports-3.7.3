@@ -10,7 +10,6 @@
     <orderEntry type="library" name="castor-1.21" level="project" />
     <orderEntry type="library" name="castor-1.2" level="project" />
     <orderEntry type="library" name="lib3" level="project" />
-    <orderEntry type="library" name="lib6" level="project" />
     <orderEntry type="module" module-name="jasperreports-3.7.4" />
   </component>
 </module>
